@@ -1,6 +1,5 @@
 # Big Data Fall 2019 - Final Project
 
-# Rohan Vartak rpv224
 
 ## Task 1 - Generic Profiling
 
