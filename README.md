@@ -2,6 +2,10 @@
 
 # Rohan Vartak rpv224
 
+## Task 1 - Generic Profiling
+
+The file generic_profiling.py does the generic profiling of the datasets and gives the output as a json file
+
 ## Task 2 -  Semantic Profiling
 
 The file semantic_profiling.py does the semantic profiling of the datasets and gives the output as a json file
